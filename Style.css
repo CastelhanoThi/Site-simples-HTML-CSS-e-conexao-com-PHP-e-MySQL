@@ -1,0 +1,296 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+}
+#Menu{
+    background-color: midnightblue;
+    height: 60px;
+    min-height: inherit;
+}
+.auto{
+    position: absolute;
+    top: 25px;
+    left: 100px;
+    font-size: 9pt;a
+    font-family: Arial;
+    color: white;
+}
+.medio{
+    position: absolute;
+    top: 25px;
+    left: 170px;
+    font-size: 9pt;
+    font-family: Arial;
+    color: white;
+}
+.baixo{
+    position: absolute;
+    top: 25px;
+    left: 320px;
+    font-size: 9pt;
+    font-family: Arial;
+    color: white;
+}
+#cabecalho{
+    background-color: white;
+    height: 120px;
+    min-height: inherit;
+}
+#cabecalho ul{
+    padding: 50px 410px;
+}
+#cabecalho ul a{
+    text-decoration: none;
+    padding: 10px 10px;
+    font-size: 10pt;
+    font-family: Arial;
+    color: black;
+}
+#cabecalho img{
+    position: absolute;
+    top: 60px;
+    left: 120px;
+}
+.novo{
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    font-size: 18pt;
+    font-family: Arial Black;
+    color: blue;
+}
+#botao{
+    position: absolute;
+    top: 100px;
+    right: 380px;
+    font-size: 10pt;
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    font-family: Arial;
+    color: blue;
+    background-color: yellow;
+}
+.doe{
+    padding: 10px 35px;
+}
+#imagem{
+    background: url(Imagem/thi.jpg);
+    background-size: 100%;
+    height: 400px;
+    min-height: inherit;
+}
+#divBusca{
+  background-color:white;
+  border:solid 2px black;
+  border-radius: 30px;
+  width:300px;
+  position: absolute;
+  top: 100px;
+  right: 50px;
+  height:32px;
+}
+ 
+#txtBusca{
+  float:right;
+  background-color:transparent;
+  border-radius: 30px;
+  padding-left:10px; 
+  font-size:18px;
+  border:none;
+  height:28px;
+  width:191px;
+}
+ 
+#btnBusca{
+  border:none;
+  border-radius: 90px;
+  color: blueviolet;
+  float:left;
+  height:30px;
+  width:75px;
+  font-weight:bold;
+  background: white;
+}
+ 
+#divBusca img{
+  float:left;
+}
+#centro{
+    position: absolute;
+    background-color: black;
+    background: rgba(100,100,100,0.1);
+    height: 150px;
+    width: 280px;
+    padding: 20px 20px;
+    color: white;
+    right: 40px;
+    top: 193px;
+}
+#sobre{
+    background-color: white;
+    height: 500px;
+    min-height: inherit;
+}
+.sobre{
+    position: absolute;
+    top: 600px;
+    left: 450px;
+    font-size: 15pt;
+    font-family: Arial Black;
+    color: green;
+}
+.home{
+    position: absolute;
+    top: 630px;
+    left: 600px;
+    font-size: 15pt;
+    font-family: Arial Black;
+    color: green;
+}
+.tel{
+    position: absolute;
+    top: 670px;
+    left: 430px;
+    font-size: 13pt;
+    font-family: Arial Black;
+    color: black;
+}
+.bem{
+    position: absolute;
+    top: 700px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial Black;
+    color: green;
+}
+.texto{
+    position: absolute;
+    top: 730px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial;
+    color: black;
+}
+#sobreImmg img{
+    position: absolute;
+    top: 820px;
+    left: 450px;
+}
+.amo{
+    position: absolute;
+    top: 1125px;
+    left: 540px;
+    font-size: 13pt;
+    font-family: Arial Black;
+    color: green;
+}
+#amodialice{
+    background-color: white;
+    height: 600px;
+    min-height: inherit;
+}
+.contato{
+    position: absolute;
+    top: 1200px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial Black;
+    color: green;
+}
+.menssagem{
+    position: absolute;
+    top: 1230px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial;
+    color: black;
+}
+.menssagem1{
+    position: absolute;
+    top: 1250px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial;
+    color: green;
+}
+form{
+    position: absolute;
+    top: 1300px;
+    left: 150px;
+    height: 50px;
+    width: 400px;
+    font-size: 13pt;
+    font-family: Arial;
+    color: black;
+}
+input{
+    display: inline-block;
+    height: 35px;
+    width: 500px;
+    margin: 10px;
+    border: 2px solid darkgray;
+    color: white;
+    padding: 10px 10px;
+    background: rgba(255,255,255,0.1);
+}
+.cadastro input{
+    position: absolute;
+    top: 270px;
+    left: 0px;
+    height: 50px;
+    width: 100px;
+    font-size: 13pt;
+    font-family: Arial;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}
+#contatos{
+    position: absolute;
+    top: 5px;
+    left: 600px;
+    font-size: 13pt;
+    font-family: Arial;
+    color: black;
+}
+.contato1{
+    position: absolute;
+    top: 1230px;
+    width: 400px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial Black;
+    color: darkgray;
+}
+.contato2{
+    position: absolute;
+    top: 1250px;
+    width: 400px;
+    left: 150px;
+    font-size: 13pt;
+    font-family: Arial Black;
+    color: darkgray;
+}
+.email{
+    position: absolute;
+    top: 1290px;
+    width: 400px;
+    left: 150px;
+    font-size: 14pt;
+    font-family: Arial Black;
+    color: green;
+}
+#contatos img{
+    position: absolute;
+    top: 1320px;
+    left: 150px;
+}
+#rodape{
+    background-color: midnightblue;
+    height: 100px;
+    min-height: inherit;
+}
