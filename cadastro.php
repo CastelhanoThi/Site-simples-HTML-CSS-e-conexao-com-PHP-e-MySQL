@@ -16,9 +16,9 @@
             </script>
             <!--Menu-->
             <div id="Menu">
-                <p class="auto">NT PLAY</p>
-                <p class="medio">ANJOS DA ESPERANÇA</p>
-                <p class="baixo">ESTUDO BIBLICO</p>
+                <p class="auto">TITUDO DO SITE</p>
+                <p class="medio">COLOCA QUALQUER COISA</p>
+                <p class="baixo">SEJA BEM VINDO</p>
             </div>
             <!--cabecalho-->
             <div id="cabecalho">
